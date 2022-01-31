@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/no-gi.lwc-kz2at61c-fork-kz2awur4",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ix84vbxOGLMJYLjMy4PA --open"
+  }
+}
